@@ -5,7 +5,7 @@
 
 
 
-## Experienced AI Software Developer, and now working remotely for KLD, Japan as RedTeam officer, and Tech Lead. CTO and PhD with Askeal X Pradeo as an AI applied to cybersecurity researcher. CTF Player.
+## Experienced AI Software Developer, and now working remotely for KLD, Japan as RedTeam officer, and Tech Lead. CTO and PhD with Askeal as an AI applied to cybersecurity researcher. CTF Player.
 
 🧑🏻‍💻 Always searching a way to improve my coding skills. As far as I've gone, it does not seem to be into coffee, but who knows? ☕️
 
