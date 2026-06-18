@@ -12,7 +12,6 @@
 
 <div align="center">
 
-[![Profile Views](https://komarev.com/ghpvc/?username=imHax0x90&style=flat-square)](#)
 [![Follow Me](https://img.shields.io/github/followers/imHax0x90?label=Follow&style=flat-square)](https://github.com/imHax0x90)
 [![Focus](https://img.shields.io/badge/Focus-AI%20%26%20Cybersecurity-1f6feb?style=flat-square)](#)
 
