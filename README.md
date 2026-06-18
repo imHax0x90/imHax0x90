@@ -1,15 +1,39 @@
-# Hello there, I am \_\_imHax0x90\_\_
+<h1 align="center">Hi, I'm imHax0x90 👋</h1>
 
-<p align="center"><img src="hello-there-kenobi.gif"></p>
+<p align="center">
+  <img src="hello-there-kenobi.gif" alt="Hello there">
+</p>
 
+<p align="center">
+  <b>AI Software Engineer · Red Team Officer · CTO &amp; PhD Researcher in AI for Cybersecurity · CTF Player</b>
+</p>
 
+---
 
+### 🧑🏻‍💻 About me
 
-## Experienced AI Software Developer, and now working remotely for KLD, Japan as RedTeam officer, and Tech Lead. CTO and PhD with Askeal as an AI applied to cybersecurity researcher. CTF Player.
+Graduate engineer (CTI) with a major in Cybersecurity, blending applied AI
+research with hands-on offensive security and full-stack development.
+Always looking for ways to sharpen my craft — so far the answer hasn't been
+coffee, but I'm keeping an open mind. ☕️
 
-🧑🏻‍💻 Always searching a way to improve my coding skills. As far as I've gone, it does not seem to be into coffee, but who knows? ☕️
+### 🚀 Currently
 
+- **CTO &amp; PhD Researcher @ Askeal** — Leading the technical vision while
+  pursuing a CIFRE doctorate on AI applied to cybersecurity. Three years to
+  trade "Sir" for "Doctor." 🎓
+- **Red Team Officer &amp; Tech Lead @ KLD** (Japan, remote) — Offensive
+  security and engineering leadership.
 
-I have Worked for Safran (Consulting, NodeJS, Data Science Introduction, 2022), ACOR PAU (FullStack Developer, Data Scientis, AI&ML, 2022-2023), The Coca-Cola Company(IT Projects Manager, NodeJS, React, Symfony, Agile/SCRUM, 2023). I directed research works in Osaka Metropolitan University, for Network optimisation Applications. I worked at Exakis Nelite, FRANCE, as an AZURE Devops AI Engineer. Gratuated engineer (CTI) with major in Cybersecurity.
+### 💼 Experience
 
-I am so happy right now to have been able to begin my PhD with Askeal, exercing as CTO ! 3 years to come not be called Sir anymore but Doctor :-) 
+- **Exakis Nelite** (France) — Azure DevOps / AI Engineer
+- **The Coca-Cola Company** (2023) — IT Project Manager · Node.js, React, Symfony, Agile/Scrum
+- **ACOR Pau** (2022–2023) — Full-Stack Developer · Data Science, AI &amp; ML
+- **Safran** (2022) — Consulting · Node.js, Data Science
+- **Osaka Metropolitan University** — Directed research on network optimization applications
+
+### 🎓 Education
+
+- Graduate Engineer (CTI) — Major in Cybersecurity
+- PhD candidate — AI applied to Cybersecurity *(ongoing)*
