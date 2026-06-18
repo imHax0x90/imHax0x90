@@ -3,7 +3,7 @@
   <img src="hello-there-kenobi.gif" alt="Hello there" width="100%" />
 </p>
 
-<h1 align="center">Hey, I'm Maxime — a.k.a. <a href="https://github.com/imHax0x90">imHax0x90</a> 👋</h1>
+<h1 align="center">Hey, I'm <a href="https://github.com/imHax0x90">imHax0x90</a> 👋</h1>
 <h3 align="center">AI Software Engineer · Red Team Officer · CTO &amp; PhD Researcher in <strong>AI for Cybersecurity</strong></h3>
 
 <p align="center">
