@@ -36,4 +36,4 @@ coffee, but I'm keeping an open mind. ☕️
 ### 🎓 Education
 
 - Graduate Engineer (CTI) — Major in Cybersecurity
-- PhD candidate — AI applied to Cybersecurity *(ongoing)*
+- PhD — AI applied to Cybersecurity *(ongoing)*
