@@ -117,15 +117,6 @@
 - Microsoft **AZ-900** · **AI-900** · **AI-102**
 - Graduate Engineer (CTI) — major in Cybersecurity
 
----
-
-### ✉️ Contact
-- 🔗 LinkedIn: *<your-linkedin-url>*
-- 🎯 Root-Me: *<your-rootme-profile>*
-- ✉️ Email: *<your-email>*
-
----
-
 <p align="center">
   <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="120" alt="dev gif" />
 </p>
