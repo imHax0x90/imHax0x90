@@ -30,7 +30,7 @@
 ---
 
 ### 🚀 Currently
-- **CTO &amp; Co-founder @ Askeal** — AI applied to cybersecurity, multi-agent architecture on AWS Bedrock. Pursuing my CIFRE doctorate in parallel. 🎓
+- **CTO &amp; Co-founder @ Askeal** — AI applied to cybersecurity, multi-agent architecture. Pursuing my CIFRE doctorate in parallel. 🎓
 - **Red Team Officer &amp; Tech Lead @ KLD** (Japan, remote) — offensive security &amp; engineering leadership.
 - **imHax0x90** — freelance offensive security &amp; AI engineering.
 
